@@ -1,4 +1,4 @@
-# wunder-alpine-base
+# alpine-base
 
 A base docker image, on which other images can be base, in order to share a set of standards.
 
