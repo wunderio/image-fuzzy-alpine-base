@@ -12,7 +12,7 @@ Maintained by: Aleksi Johansson <aleksi.johansson@wunder.io>
 
 This image is available publicly at:
 
-- quay.io/wunder/alpine-base : [![Docker Repository on Quay](https://quay.io/repository/wunder/alpine-base/status "Docker Repository on Quay")](https://quay.io/repository/wunder/alpine-base)
+- quay.io/wunder/fuzzy-alpine-base : [![Docker Repository on Quay](https://quay.io/repository/wunder/fuzzy-alpine-base/status "Docker Repository on Quay")](https://quay.io/repository/wunder/fuzzy-alpine-base)
 
 ### Base
 
