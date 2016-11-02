@@ -1,4 +1,6 @@
-# alpine-base
+# image-fuzzy-alpine-base
+
+Fuzzy as in reference to the https://en.wikipedia.org/wiki/The_Mythical_Man-Month book where Fred describes the approach of "write one to throw away" as the best start.
 
 A base docker image, on which other images can be base, in order to share a set of standards.
 
