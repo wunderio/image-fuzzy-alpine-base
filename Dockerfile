@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.6
 MAINTAINER aleksi.johansson@wunder.io
 
 # Create app user with app group. Specifically assign uid and gid 1000
